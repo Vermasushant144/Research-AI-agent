@@ -22,7 +22,7 @@ Clone the repository and install the required dependencies:
 ```sh
  git clone https://github.com/Vermasushant144/Research-AI-agent.git
  cd Research-AI-agent
- pip install -r requirements.txt
+
 ```
 
 ## Dependencies
