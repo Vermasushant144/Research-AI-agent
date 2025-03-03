@@ -3,6 +3,11 @@
 ## Overview
 This project is an **Advanced Multi-Agent AI Researcher & Writing Tool** that generates in-depth research papers and articles using multiple AI agents. It leverages AI models, web scraping, and language processing tools to provide detailed and structured research on any given topic.
 
+Images:
+![Screenshot 2025-03-03 233334](https://github.com/user-attachments/assets/75a98de3-777a-421b-90b2-fb1e0eb915cc)
+![Screenshot 2025-03-03 233352](https://github.com/user-attachments/assets/da3ceb7f-7042-416d-b648-e4371b402a20)
+
+
 ## Features
 - AI-powered research and content generation
 - Multi-agent system for research, writing, and editing
@@ -45,6 +50,8 @@ Ensure you have valid API keys set in your `.env` file:
 OPENAI_API_KEY=your_openai_api_key
 SERPER_API_KEY=your_serper_api_key
 ```
+
+
 
 ## Contributing
 Feel free to fork the repository and contribute to the project.
