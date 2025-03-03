@@ -50,5 +50,7 @@ SERPER_API_KEY=your_serper_api_key
 Feel free to fork the repository and contribute to the project.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
+
+🌟 Developed by Sushant Verma.
 
